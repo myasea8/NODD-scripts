@@ -1,0 +1,23 @@
+numpy == 1.21.6
+Cartopy == 0.22.0
+pandas == 1.3.5
+matplotlib == 3.5.3
+datetime == 5.2
+xarray == 0.20.2
+requests == 2.31.0
+netCDF4 == 1.6.4
+metpy == 1.5.1
+h5py == 3.10.0
+zarr == 2.16.1
+numcodecs == 0.12.1
+s3fs == 2023.1.0
+google == 3.0.0
+google.cloud.storage
+azure-storage-blob == 12.16.0
+
+scipy
+boto3 == 1.24.59
+pytz == 2023.3.post1
+six == 1.16.0
+arm_pyart
+nexradaws == 1.1
