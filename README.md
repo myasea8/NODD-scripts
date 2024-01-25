@@ -1,4 +1,5 @@
 ## NODD Data Scripts
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msearsie3/NODD_scripts/HEAD)
 
 ## Description
 The NOAA Open Data Dissemination ([NODD](https://www.noaa.gov/information-technology/open-data-dissemination)) program works to make NOAA datasets openly available in the cloud. For students and scientists who may be new to cloud-hosted data, there is often a steep learning curve to the process of requesting, reading, and visualizing a dataset. Additionally, use of data in the the cloud is a relatively new topic among physical scientists within NOAA, so trainings and tools are not yet widely available for a general audience.
