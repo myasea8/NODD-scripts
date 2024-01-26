@@ -14,7 +14,7 @@ s3fs == 2023.1.0
 google == 3.0.0
 google.cloud.storage
 azure-storage-blob == 12.16.0
-
+tqdm
 scipy
 boto3 == 1.24.59
 pytz == 2023.3.post1
